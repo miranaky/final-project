@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781608097048",
+    "project_id": "kaengkaeng-final-project",
+    "storage_bucket": "kaengkaeng-final-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781608097048:android:18a8e45c0a97c8d3cb3a6d",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbCzLHmf6oVeCyajcQymGo3Gyrg28XiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
